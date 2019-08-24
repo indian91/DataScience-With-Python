@@ -1,0 +1,230 @@
+
+Tue May 28 23:48:37 2019:InFO:Application Started
+Tue May 28 23:48:42 2019:INFO:User Tried To Login
+Tue May 28 23:48:48 2019:LOGIN:Login sucessfull for acc no 1001
+Tue May 28 23:49:34 2019:InFO:Application Started
+Tue May 28 23:49:37 2019:INFO:User Tried To Login
+Tue May 28 23:49:41 2019:LOGIN:Login sucessfull for acc no 1001
+Tue May 28 23:49:53 2019:InFO:Application Started
+Tue May 28 23:49:56 2019:INFO:User Tried To Login
+Tue May 28 23:49:58 2019:DENY:unauthoriged account accessed
+Tue May 28 23:50:02 2019:InFO:Application Started
+Tue May 28 23:50:06 2019:INFO:User Tried To Login
+Tue May 28 23:50:11 2019:LOGIN:Login sucessfull for acc no 1001
+Tue May 28 23:50:19 2019:InFO:Application Started
+Tue May 28 23:53:34 2019:INFO:Application Closed
+Tue May 28 23:53:39 2019:InFO:Application Started
+Tue May 28 23:53:41 2019:INFO:User Tried To Login
+Tue May 28 23:53:47 2019:LOGIN:Login sucessfull for acc no 1002
+Tue May 28 23:54:01 2019:InFO:Application Started
+Tue May 28 23:54:08 2019:INFO:User Tried To Login
+Tue May 28 23:54:11 2019:LOGIN:Login sucessfull for acc no 1002
+Tue May 28 23:54:18 2019:InFO:Application Started
+Tue May 28 23:56:44 2019:INFO:User Tried To Login
+Tue May 28 23:56:50 2019:ERROR:Login unsucessfull for acc no 1001 because of Password Verification
+Tue May 28 23:56:54 2019:InFO:Application Started
+Tue May 28 23:56:58 2019:INFO:Application Closed
+Tue May 28 23:57:02 2019:InFO:Application Started
+Tue May 28 23:57:04 2019:INFO:User Tried To Login
+Tue May 28 23:57:09 2019:LOGIN:Login sucessfull for acc no 1001
+Tue May 28 23:57:15 2019:InFO:Application Started
+Wed May 29 00:05:06 2019:INFO:Application Closed
+Wed May 29 00:05:11 2019:InFO:Application Started
+Wed May 29 00:05:27 2019:INFO:User Tried To Login
+Wed May 29 00:05:32 2019:LOGIN:Login sucessfull for acc no 1001
+Wed May 29 00:05:38 2019:InFO:Application Started
+Wed May 29 00:06:34 2019:INFO:User Tried To Signup
+Wed May 29 00:06:51 2019:SIGNUP:Signup sucessfull for acc no 1006 because of Password Verification
+Wed May 29 00:07:08 2019:InFO:Application Started
+Wed May 29 00:07:11 2019:INFO:User Tried To Login
+Wed May 29 00:07:16 2019:LOGIN:Login sucessfull for acc no 1006
+Wed May 29 00:07:26 2019:InFO:Application Started
+Wed May 29 00:09:31 2019:INFO:Application Closed
+Wed May 29 18:51:19 2019:InFO:Application Started
+Wed May 29 18:51:25 2019:INFO:User Tried To Login
+Wed May 29 18:51:31 2019:LOGIN:Login sucessfull for acc no 1001
+Wed May 29 18:51:48 2019:InFO:Application Started
+Wed May 29 18:51:51 2019:INFO:User Tried To Signup
+Wed May 29 18:52:11 2019:SIGNUP:Signup sucessfull for acc no 1007 because of Password Verification
+Wed May 29 18:52:31 2019:InFO:Application Started
+Wed May 29 18:52:33 2019:INFO:User Tried To Login
+Wed May 29 18:52:39 2019:LOGIN:Login sucessfull for acc no 1007
+Wed May 29 18:53:03 2019:InFO:Application Started
+Wed May 29 18:53:05 2019:INFO:Application Closed
+Wed May 29 18:58:23 2019:InFO:Application Started
+Wed May 29 18:58:58 2019:INFO:User Tried To Login
+Wed May 29 18:59:03 2019:LOGIN:Login sucessfull for acc no 1001
+Wed May 29 19:03:00 2019:InFO:Application Started
+Wed May 29 19:03:02 2019:INFO:User Tried To Login
+Wed May 29 19:03:06 2019:LOGIN:Login sucessfull for acc no 1001
+Wed May 29 19:03:25 2019:INFO:Application Closed
+Wed May 29 23:13:34 2019:InFO:Application Started
+Wed May 29 23:13:39 2019:INFO:User Tried To Login
+Wed May 29 23:13:43 2019:LOGIN:Login sucessfull for acc no 1001
+Wed May 29 23:13:56 2019:INFO:Application Closed
+Wed May 29 23:18:21 2019:InFO:Application Started
+Wed May 29 23:18:23 2019:INFO:User Tried To Login
+Wed May 29 23:18:27 2019:LOGIN:Login sucessfull for acc no 1001
+Wed May 29 23:18:44 2019:INFO:Application Closed
+Wed May 29 23:20:11 2019:InFO:Application Started
+Wed May 29 23:20:12 2019:INFO:User Tried To Login
+Wed May 29 23:20:16 2019:LOGIN:Login sucessfull for acc no 1001
+Wed May 29 23:20:32 2019:INFO:Application Closed
+Wed May 29 23:21:44 2019:InFO:Application Started
+Wed May 29 23:21:45 2019:INFO:User Tried To Login
+Wed May 29 23:21:48 2019:LOGIN:Login sucessfull for acc no 1001
+Wed May 29 23:21:59 2019:INFO:Application Closed
+Wed May 29 23:31:19 2019:InFO:Application Started
+Wed May 29 23:31:21 2019:INFO:User Tried To Login
+Wed May 29 23:31:27 2019:LOGIN:Login sucessfull for acc no 1001
+Wed May 29 23:33:47 2019:INFO:Application Closed
+Wed May 29 23:35:03 2019:InFO:Application Started
+Wed May 29 23:35:06 2019:INFO:User Tried To Login
+Wed May 29 23:35:10 2019:LOGIN:Login sucessfull for acc no 1001
+Wed May 29 23:37:21 2019:InFO:Application Started
+Wed May 29 23:37:23 2019:INFO:User Tried To Login
+Wed May 29 23:37:27 2019:LOGIN:Login sucessfull for acc no 1001
+Wed May 29 23:54:44 2019:InFO:Application Started
+Wed May 29 23:54:46 2019:INFO:User Tried To Login
+Wed May 29 23:54:50 2019:LOGIN:Login sucessfull for acc no 1001
+Wed May 29 23:56:46 2019:InFO:Application Started
+Wed May 29 23:56:47 2019:INFO:User Tried To Login
+Wed May 29 23:56:50 2019:LOGIN:Login sucessfull for acc no 1001
+Wed May 29 23:57:00 2019:INFO:Amount Deposit Successful
+Thu May 30 00:00:51 2019:InFO:Application Started
+Thu May 30 00:00:52 2019:INFO:User Tried To Login
+Thu May 30 00:00:56 2019:LOGIN:Login sucessfull for acc no 1001
+Thu May 30 00:01:05 2019:INFO:Checking for balance
+Thu May 30 00:01:46 2019:INFO:Amount Deposit Successful
+Thu May 30 00:01:46 2019:INFO:Application Closed
+Thu May 30 00:01:56 2019:InFO:Application Started
+Thu May 30 00:01:57 2019:INFO:User Tried To Login
+Thu May 30 00:02:04 2019:LOGIN:Login sucessfull for acc no 1002
+Thu May 30 00:03:02 2019:InFO:Application Started
+Thu May 30 00:03:03 2019:INFO:User Tried To Login
+Thu May 30 00:03:08 2019:LOGIN:Login sucessfull for acc no 1002
+Thu May 30 00:03:17 2019:INFO:Withdrawl Successful
+Thu May 30 00:03:36 2019:INFO:Withdrawl Successful
+Thu May 30 00:03:36 2019:INFO:Application Closed
+Thu May 30 00:13:33 2019:InFO:Application Started
+Thu May 30 00:13:35 2019:INFO:User Tried To Login
+Thu May 30 00:13:39 2019:LOGIN:Login sucessfull for acc no 1002
+Thu May 30 00:14:17 2019:INFO:Amount Deposit Successful
+Thu May 30 00:14:35 2019:INFO:Checking for balance
+Thu May 30 00:14:35 2019:INFO:Application Closed
+Thu May 30 00:15:14 2019:InFO:Application Started
+Thu May 30 00:15:15 2019:INFO:User Tried To Login
+Thu May 30 00:15:20 2019:LOGIN:Login sucessfull for acc no 1001
+Thu May 30 00:21:40 2019:InFO:Application Started
+Thu May 30 00:21:41 2019:INFO:User Tried To Login
+Thu May 30 00:21:45 2019:LOGIN:Login sucessfull for acc no 1001
+Thu May 30 00:22:12 2019:InFO:Application Started
+Thu May 30 00:22:14 2019:INFO:User Tried To Login
+Thu May 30 00:22:20 2019:LOGIN:Login sucessfull for acc no 1007
+Thu May 30 00:22:30 2019:INFO:Checking for balance
+Thu May 30 00:34:31 2019:InFO:Application Started
+Thu May 30 00:34:32 2019:INFO:User Tried To Login
+Thu May 30 00:34:41 2019:LOGIN:Login sucessfull for acc no 1001
+Thu May 30 00:35:06 2019:INFO:Amount Deposit Successful
+Thu May 30 00:35:12 2019:INFO:Checking for balance
+Thu May 30 00:35:12 2019:INFO:Application Closed
+Thu May 30 00:35:35 2019:InFO:Application Started
+Thu May 30 00:35:37 2019:INFO:User Tried To Login
+Thu May 30 00:35:42 2019:LOGIN:Login sucessfull for acc no 1001
+Thu May 30 00:35:46 2019:INFO:Checking for balance
+Thu May 30 00:36:15 2019:INFO:Application Closed
+Thu May 30 00:36:24 2019:InFO:Application Started
+Thu May 30 00:36:26 2019:INFO:User Tried To Login
+Thu May 30 00:36:31 2019:ERROR:Login unsucessfull for acc no 1007 because of Password Verification
+Thu May 30 00:37:47 2019:INFO:Amount Deposit Successful
+Thu May 30 00:37:47 2019:INFO:Application Closed
+Thu May 30 00:37:52 2019:InFO:Application Started
+Thu May 30 00:37:54 2019:INFO:User Tried To Login
+Thu May 30 00:37:57 2019:LOGIN:Login sucessfull for acc no 1006
+Thu May 30 00:39:01 2019:InFO:Application Started
+Thu May 30 00:39:02 2019:INFO:User Tried To Login
+Thu May 30 00:39:07 2019:ERROR:Login unsucessfull for acc no 1003 because of Password Verification
+Thu May 30 00:39:20 2019:ERROR:Login unsucessfull for acc no 1007 because of Password Verification
+Thu May 30 00:39:24 2019:DENY:unauthoriged account accessed
+Thu May 30 00:39:31 2019:LOGIN:Login sucessfull for acc no 1004
+Thu May 30 00:40:02 2019:InFO:Application Started
+Thu May 30 00:40:04 2019:INFO:User Tried To Login
+Thu May 30 00:40:09 2019:LOGIN:Login sucessfull for acc no 1004
+Thu May 30 00:40:15 2019:INFO:Withdrawl Successful
+Thu May 30 00:40:32 2019:INFO:Checking for balance
+Thu May 30 00:40:32 2019:INFO:Application Closed
+Thu May 30 00:46:54 2019:InFO:Application Started
+Thu May 30 00:46:56 2019:INFO:User Tried To Login
+Thu May 30 00:47:00 2019:LOGIN:Login sucessfull for acc no 1002
+Thu May 30 00:47:05 2019:INFO:Amount Deposit Successful
+Thu May 30 00:47:19 2019:INFO:Checking for balance
+Thu May 30 00:47:24 2019:INFO:Application Closed
+Thu May 30 00:53:16 2019:InFO:Application Started
+Thu May 30 00:53:18 2019:INFO:User Tried To Login
+Thu May 30 00:53:22 2019:LOGIN:Login sucessfull for acc no 1005
+Thu May 30 00:59:10 2019:InFO:Application Started
+Thu May 30 00:59:12 2019:INFO:User Tried To Login
+Thu May 30 00:59:16 2019:LOGIN:Login sucessfull for acc no 1002
+Thu May 30 00:59:23 2019:INFO:Withdrawl Successful
+Thu May 30 00:59:27 2019:INFO:Checking for balance
+Thu May 30 01:00:49 2019:INFO:Application Closed
+Thu May 30 01:03:40 2019:InFO:Application Started
+Thu May 30 01:03:41 2019:INFO:User Tried To Login
+Thu May 30 01:03:44 2019:LOGIN:Login sucessfull for acc no 1002
+Thu May 30 01:10:15 2019:InFO:Application Started
+Thu May 30 01:10:17 2019:INFO:User Tried To Login
+Thu May 30 01:10:20 2019:LOGIN:Login sucessfull for acc no 1002
+Thu May 30 01:12:35 2019:InFO:Application Started
+Thu May 30 01:12:37 2019:INFO:User Tried To Login
+Thu May 30 01:12:42 2019:LOGIN:Login sucessfull for acc no 1002
+Thu May 30 01:12:52 2019:INFO:Password Update
+Thu May 30 01:14:06 2019:INFO:Application Closed
+Thu May 30 01:14:10 2019:InFO:Application Started
+Thu May 30 01:14:12 2019:INFO:User Tried To Login
+Thu May 30 01:14:18 2019:LOGIN:Login sucessfull for acc no 1002
+Thu May 30 01:14:37 2019:INFO:Password Update
+Thu May 30 01:16:06 2019:INFO:Application Closed
+Thu May 30 01:16:13 2019:InFO:Application Started
+Thu May 30 01:16:15 2019:INFO:User Tried To Login
+Thu May 30 01:16:21 2019:ERROR:Login unsucessfull for acc no 1002 because of Password Verification
+Thu May 30 01:16:30 2019:ERROR:Login unsucessfull for acc no 1002 because of Password Verification
+Thu May 30 01:16:39 2019:ERROR:Login unsucessfull for acc no 1002 because of Password Verification
+Thu May 30 01:16:42 2019:LOGIN:Login sucessfull for acc no 1002
+Thu May 30 01:17:03 2019:INFO:Amount Deposit Successful
+Thu May 30 01:17:15 2019:INFO:Checking for balance
+Thu May 30 01:28:32 2019:INFO:Application Closed
+Thu May 30 10:26:40 2019:InFO:Application Started
+Thu May 30 10:26:41 2019:INFO:User Tried To Login
+Thu May 30 10:26:45 2019:LOGIN:Login sucessfull for acc no 1001
+Thu May 30 10:27:01 2019:INFO:Amount Deposit Successful
+Thu May 30 10:27:07 2019:INFO:Checking for balance
+Thu May 30 10:27:11 2019:INFO:Application Closed
+Thu May 30 10:30:02 2019:InFO:Application Started
+Thu May 30 10:30:03 2019:INFO:User Tried To Login
+Thu May 30 10:30:13 2019:LOGIN:Login sucessfull for acc no 1001
+Thu May 30 10:30:18 2019:INFO:Checking for balance
+Thu May 30 10:31:50 2019:INFO:Application Closed
+Thu May 30 10:36:01 2019:InFO:Application Started
+Thu May 30 10:36:03 2019:INFO:User Tried To Login
+Thu May 30 10:36:08 2019:LOGIN:Login sucessfull for acc no 1001
+Thu May 30 10:36:13 2019:INFO:Checking for balance
+Thu May 30 10:36:17 2019:INFO:Application Closed
+Thu May 30 10:42:38 2019:InFO:Application Started
+Thu May 30 10:42:43 2019:INFO:User Tried To Login
+Thu May 30 10:42:47 2019:LOGIN:Login sucessfull for acc no 1001
+Thu May 30 10:47:44 2019:INFO:Application Closed
+Thu May 30 21:31:58 2019:InFO:Application Started
+Thu May 30 21:32:01 2019:INFO:User Tried To Login
+Thu May 30 21:32:07 2019:LOGIN:Login sucessfull for acc no 1001
+Thu May 30 21:32:13 2019:INFO:Checking for balance
+Thu May 30 21:32:21 2019:INFO:Checking for balance
+Thu Jun  6 09:06:20 2019:InFO:Application Started
+Thu Jun  6 09:06:23 2019:INFO:User Tried To Login
+Thu Jun  6 09:06:33 2019:LOGIN:Login sucessfull for acc no 1001
+Thu Jun  6 09:06:43 2019:INFO:Amount Deposit Successful
+Thu Jun  6 09:06:50 2019:INFO:Checking for balance
+Thu Jun  6 09:06:53 2019:INFO:Application Closed
+Thu Jun  6 09:07:34 2019:InFO:Application Started
+Thu Jun  6 09:07:35 2019:INFO:User Tried To Login
+Thu Jun  6 09:07:39 2019:LOGIN:Login sucessfull for acc no 1001
+Thu Jun  6 09:08:53 2019:INFO:Application Closed

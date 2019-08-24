@@ -1,0 +1,45 @@
+<html>
+    <head>
+        <title>SignUp</title>
+        {% include 'hello.html' %}
+        {% block head %}
+        {% endblock %}
+    </head>
+    <h1>You are at Signup Page.......</h1>
+    <body style="background-image:url('/static/depositphotos_194104986-stock-photo-businessman-using-laptop-payment-online.jpg')">
+            {% if error %}
+            <h1 style="color:black">{{ error }}</h1>
+            {% endif %}
+        <form method="POST" action="/signup/signup1/">
+            <input type="email" name='email' placeholder="Email" style="size: 100px"><br>
+            <input type="text" name='first_name' placeholder='Fname'><br>
+            <input type="text" name='last_name' placeholder="Lname"><br>
+            <input type="password" name='pass' placeholder="password"><br>
+            <input type="password" name='cpass' placeholder="confirm password"><br>
+            <input type='number' name='balance' placeholder="Opening_balance"><br>
+            <input type="submit" name="SIGNUP" id="i1">   
+        </form>
+        <a href="/home/" style="color:green">HOME</a>
+    </body>
+</html>
+<style>
+input{
+    background-color: rgb(219, 188, 129);
+    color: black;
+    width: 20%;
+    padding: 12px 20px;
+    margin: 2px 0;
+    box-sizing: border-box;
+    border: 4px solid darkgrey;
+    border-radius: 8px;
+}
+form{
+    margin-top: 100px;
+    size: 100px;
+}
+#i1{
+    width: 12%;
+    margin: 10px 0;
+    margin-left:4%;
+}
+</style>

@@ -1,0 +1,48 @@
+<html>
+    <head>
+        <title>LogIn</title>
+        <a href="/home/" style="color: lightsalmon">HOME</a>
+            {% include 'hello.html' %}
+            {% block head %}
+            {% endblock %}
+    </head>
+    <body style="background-image: url('/static/47951.jpg')">
+            {% if error %}
+            <h1 style="color: azure">{{ error }}</h1>
+            {% endif %}
+        <form action="/login/login1/" method="POST">
+            <input type="number" name='acc' placeholder="accno"><br>
+            <input type="password" name='pass' placeholder="password"><br>
+            <input id="i1" type="submit" placeholder="login">
+        </form>
+        <h1 style="size: 50px">You are at Login page.....</h1>
+    </body>
+            
+</html>
+<style>
+input{
+    background-color: rgb(43, 88, 86);
+    color: rgb(247, 244, 244);
+    width: 20%;
+    padding: 12px 20px;
+    margin: 0px 0;
+    box-sizing:inherit;
+    border: 4px solid darkgrey;
+    border-radius: 8px;
+}
+form{
+    margin-top: 200px;
+    size: 100px;
+    text-align: center;
+    
+}
+h1{
+    font-style: italic;
+    margin-top: 130px;
+    margin-left: 630px;
+}
+#i1{
+    width: 7%;
+    margin: 12px 0;
+}
+</style>

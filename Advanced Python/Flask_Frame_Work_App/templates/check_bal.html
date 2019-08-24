@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <title>Check Balance</title>
+        <h1 style="color:lightblue">You are at Check Balance Page..... :)</h1>
+        {% include 'hello.html' %}
+            {% block head %}
+            {% endblock %}
+    </head>
+    <body style="background-image: url(/static/gc-grngld4b_032__1.jpg)">
+            {% if error %}
+            <h1>{{ error }}</h1>
+            {% endif %}
+        <form action='/login/login1/check_bal/check_bal1/' method="POST">
+        <input type="number" name="acc" placeholder="account no"><br>
+        <input type="password" name='pass' placeholder="password"><br>
+        <input type='submit' id="i1">
+        </form>
+        <a href="/home/" style="color:black">HOME</a>
+    </body>
+</html>
+<style>
+        a{  color: aqua;
+            margin: 45%;
+        }
+        body{
+            background-size: 80%;
+        }
+        input{
+            background-color:cornsilk;
+            color:black;
+            width: 30%;
+            padding: 12px 20px;
+            margin: 0px 0;
+            box-sizing: border-box;
+            border: 4px solid green;
+            border-radius: 8px;
+        }
+        ::-webkit-input-placeholder { 
+          color:darkred;
+        }
+        form{
+            margin-top: 280px;
+            size: 100px;
+            margin-left: 600px;
+        }
+        #i1{
+            width: 15%;
+            margin: 15px 0;
+            margin-left:7%;
+            background-color: rgb(132, 156, 148);
+            color: black;
+        }
+        </style>

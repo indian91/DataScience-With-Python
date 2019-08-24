@@ -1,0 +1,13 @@
+.main{
+    float:left;
+}
+.main li{
+    display: inline-block;
+}
+a {
+    color: rgb(220, 20, 20);
+    padding: 10px;
+    font-size: 30px;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

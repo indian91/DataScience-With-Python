@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <title>Hello signup page</title>
+        {% include 'hello.html' %}
+            {% block head %}
+            {% endblock %}
+    </head>
+    <body style="background-image:url('/static/photo-1513151233558-d860c5398176.jpg')">
+        {% for key,value in data.items() %}
+        <h1 style="color: coral">{{key}} :   {{value}}</h1>  
+        {% endfor %}  
+        <h2 style="color:lightpink">Registration is Successful....... :)</h2>
+        <h2 style="color: crimson">Now you can login........</h2>
+        <a href='/start/'>HOME</a><br>
+        <a href="/login/">LOGIN</a>
+    </body>
+</html>
+<style>
+body{
+    background-size: 80%;
+    height:fit-content;
+    width: 40%;
+}
+</style>

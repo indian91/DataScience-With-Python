@@ -1,0 +1,24 @@
+<html>
+    <head>
+<title>Transaction</title>
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='jsr.css') }}">
+        {% include 'hello.html' %}
+            {% block head %}
+            {% endblock %}
+    </head>
+    <body style='background-color:darkseagreen'>
+            {% if msg %}
+            <h1>{{ msg }}</h1>
+            {% endif %}
+        <div class="main">
+            <ul>
+                <li><a href="/login/login1/debit/">Debit</a></li>
+                <li><a href="/login/login1/credit/">Credit</a></li>
+                <li><a href="/login/login1/update_pwd/">Update_pwd</a></li>
+                <li><a href="/login/login1/check_bal/">Check_Bal</a></li>
+            </ul>
+        </div>
+        <footer><a href='/home/' style="color:lightgreen">logout</a></footer>
+        
+    </body>
+</html>

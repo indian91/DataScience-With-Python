@@ -1,0 +1,68 @@
+<html>
+    <head>
+        <title>Hello world to Flask</title>
+    </head>
+    <body style="background: linear-gradient(to right,red,blue)">
+        {% if error %}
+        <h1 style="color:cyan">{{ error }}</h1>
+        {% endif %}
+        <div class="main">
+                <ul>
+                    <li><a href="/home/">HOME</a></li>
+                    <li><a href="/start/about/">ABOUT</a></li>
+                    <li><a href="/login/">LOGIN</a></li>
+                    <li><a href="/signup/">SIGNUP</a></li>
+                </ul>
+            </div>
+            <div style="align-self: center">
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <h2>******************************************</h2>
+            <h1>          ** Welcome to our Bank **           </h1>
+            <h2>******************************************</h2>
+            </div>
+            <div id="d1">
+                    {% include 'hello.html' %}
+                    {% block head %}
+                    {% endblock %}
+            </div>
+        </body>
+</html>
+<style>
+#d1{
+    color: aliceblue;
+    margin-left: 1400px;
+    margin-top: 350px;
+}
+.main{
+    float:right;
+}
+.main li{
+    display: inline-block;
+}
+h1{
+    color:rgb(246, 247, 242);
+    text-align: center;
+}
+h2{
+    color: cornflowerblue;
+    text-align: center;
+    margin-bottom: 10px;
+}
+a {
+    color: rgb(244, 245, 250);
+    padding: 10px;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+</style>

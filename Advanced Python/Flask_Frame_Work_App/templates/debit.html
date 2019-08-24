@@ -1,0 +1,49 @@
+<html>
+    <head>
+        <title>Debit</title>
+        {% include 'hello.html' %}
+            {% block head %}
+            {% endblock %}
+        <a href="/home/" style="color:black">HOME</a>
+    </head>
+    <body style="background-image:url('/static/bank-background-hd.jpg')">
+            {% if error %}
+            <h1>{{ error }}</h1>
+            {% endif %}
+        <form action='/login/login1/debit/debit1/' method="POST">
+        <input type="number" name="acc" placeholder="account no"><br>
+        <input type="password" name='pass' placeholder="password"><br>
+        <input type="number" name='amount' placeholder="debit amount"><br>
+        <input type='submit' id="i1">
+        </form>
+        <h1>You are at the Debit transaction page...... :)</h1>
+    </body>
+</html>
+<style>
+body{
+    background-size: 80%;
+}
+input{
+    background-color:darkgoldenrod;
+    color:black;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 0px 0;
+    box-sizing: border-box;
+    border: 4px solid darkolivegreen;
+    border-radius: 8px;
+}
+form{
+    margin-top: 80px;
+    size: 100px;
+    margin-left: 1300px;
+}
+#i1{
+    width: 57%;
+    margin: 15px 0;
+    margin-left:20%;
+}
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color:black;
+}
+</style>
